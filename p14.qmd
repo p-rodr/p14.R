@@ -4,4 +4,3 @@ format: html
 author: "Pablo A. Rodriguez"
 ---
 ##Hello, World!
-##Something new
